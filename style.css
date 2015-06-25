@@ -101,7 +101,8 @@ body {
   margin-right: 20px;
   padding: 15px 0;
 }
-li.active:hover {
+.main-nav-links li.active 
+.main-nav-links li:hover {
   color: #5898F1;
   border-bottom: 3px solid #5898F1;
 }
